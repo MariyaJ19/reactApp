@@ -10,7 +10,7 @@ const Banner = () => (
   
     <div className='main'>
       <h1><b>Food2Go</b></h1>
-      <p>We made fresh and healthy meals with different recipes</p>
+      <p>Making Food collection easier</p>
       
     </div>
    
