@@ -8,7 +8,7 @@ import {
   BrowserRouter as Router,
   Route,
 } from 'react-router-dom';
-import Cart from './components2/Cart'
+import Cart from './components/Cart'
 import Login from './components/Login'
 import Register from './components/Register'
 

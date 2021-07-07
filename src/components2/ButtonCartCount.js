@@ -9,7 +9,7 @@ const ButtonCartCount = ({ Cart }) => {
   const history = useHistory();
   return (
     <div className='btn' onClick={() => history.push('/cart')}>
-      <div className='count'>{Cart >= 10 ? '20+' : Cart}</div>
+      <div className='count'>{Cart >= 100 ? '99+' : Cart}</div>
      
     </div>
   );
